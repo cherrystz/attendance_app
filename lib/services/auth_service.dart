@@ -22,6 +22,7 @@ class AuthService {
     await _auth.signOut();
   }
 
+  // Get current user
   Future<User?> getCurrentUser() async {
     return await _auth.currentUser;
   }

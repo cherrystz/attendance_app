@@ -11,6 +11,11 @@ This is an attendance tracking mobile application built with Flutter. It utilize
 - **Provider for State Management**: Manages application state efficiently across screens.
 - **Firebase Integration**: Stores and retrieves attendance data with Firebase Firestore.
 
+## Previews
+Click on image to preview on YouTube.
+
+[![Preview application](https://i9.ytimg.com/vi/1q4VVczgryY/mqdefault.jpg?sqp=CJjo_LgG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEcgUyhyMA8=&rs=AOn4CLAaysIFF75Szeexn5Obyn_XUEJnSg)](https://youtu.be/1q4VVczgryY)
+
 ## Screenshots
 
 <!-- Add your screenshots here if available -->

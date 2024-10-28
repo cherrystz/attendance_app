@@ -14,9 +14,9 @@ This is an attendance tracking mobile application built with Flutter. It utilize
 ## Screenshots
 
 <!-- Add your screenshots here if available -->
-![Home Screen](path/to/home_screen_screenshot.png)
-![Profile Screen](path/to/profile_screen_screenshot.png)
-![Calendar Screen](path/to/calendar_screen_screenshot.png)
+![Home Screen](https://github.com/cherrystz/attendance_app/blob/main/screenshots/attendance_screen.png)
+![Calendar Screen](https://github.com/cherrystz/attendance_app/blob/main/screenshots/calendar_screen.png)
+![Profile Screen](https://github.com/cherrystz/attendance_app/blob/main/screenshots/profile_screen.png)
 
 ## Getting Started
 

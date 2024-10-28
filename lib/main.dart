@@ -10,17 +10,7 @@ import 'view_models/profile_view_model.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: const FirebaseOptions(
-      apiKey: "AIzaSyDV8yVsMkGuh6vd_SVd4e395BgBFv9VFco",
-      authDomain: "attendance-app-2e974.firebaseapp.com",
-      projectId: "attendance-app-2e974",
-      storageBucket: "attendance-app-2e974.appspot.com",
-      messagingSenderId: "755564860555",
-      appId: "1:755564860555:web:6a37869ddf6b2fd9f8708e",
-      measurementId: "G-6XJZ3XFNE3",
-    ),
-  );
+  await Firebase.initializeApp();
   runApp(
     MultiProvider(
       providers: [

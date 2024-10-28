@@ -44,3 +44,6 @@ app.*.map.json
 
 # Flutter firebase
 firebase_options.dart
+google-services.json
+firebase.json
+GoogleService-Info.plist
